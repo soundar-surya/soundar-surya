@@ -1,7 +1,7 @@
-# Hola!, I'm Soundar Surya - <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Soundar Surya - <img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/tenor%20(2).gif" width="90px">
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/tenor%20(2).gif" width="90px">
+
 ## I'm an Information Technology Student  
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, Node, React etc.
