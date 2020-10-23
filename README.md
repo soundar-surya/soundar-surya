@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soundar Surya</h1>
 <h3 align="center">I'm Soundar Surya, a 20-year old technical enthusiast who does web development, Passionate to contribute open-source projects and make cool products.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soundar-surya" alt="soundar-surya" /> </p>
 
 - 🌱 I’m currently learning **React native**
 
