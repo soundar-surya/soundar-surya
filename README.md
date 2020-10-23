@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
   <!--img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="320" /11-->
   
-### I'm an Information Technology Student  
+### An Information Technology Student  
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, Node, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
