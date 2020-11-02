@@ -26,9 +26,21 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=soundar-surya&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soundar-surya&count_private=true&theme=dracula">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=soundar-surya&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soundar-surya&count_private=true&theme=dracula">
 
 </p>
 
  ---
+ 
+<p align="center">
+  <i>Let's connect and chat! Find me on the web...</i>
+  
+   [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soundarsurya58@gmail.com)](mailto:soundarsurya58@gmail.com)
+
+  <p align="center">
+    Show ❤️ by starring repositories you find good! 
+    <br />
+    Also, star and fork this repository if you wish to give this new feature a try!
+  </p>
+</p>
