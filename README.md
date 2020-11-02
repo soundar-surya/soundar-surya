@@ -37,9 +37,7 @@
   <i>Let's connect and chat! Find me on the web...</i>
   
  <p align="center">
-  
    [![Gmail Badge](https://img.shields.io/badge/-soundarsurya-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soundarsurya58@gmail.com)](mailto:soundarsurya58@gmail.com)
-   
 </p>
 
   <p align="center">
