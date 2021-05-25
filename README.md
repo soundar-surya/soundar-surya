@@ -5,10 +5,9 @@
   
 ### An Information Technology Student  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, Node, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-
+- 🔭 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning Flutter, Go
+- 💬 Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
   
 ---
 
