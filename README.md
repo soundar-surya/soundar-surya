@@ -2,13 +2,11 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
   <!--img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="320" /11-->
-  
-### An Information Technology Student  
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Flutter, Go
-- 💬 Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-  
+- 🌱 I’m currently learning everything :rofl:
+- 💬 Ask me about anything related to Javascript
+
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=soundar-surya&countColorcountColor&countColor=%237B1E7B"/>
