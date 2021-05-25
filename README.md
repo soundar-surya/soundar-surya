@@ -3,6 +3,8 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
   <!--img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="320" /11-->
 
+Hi, I'm soundarsurya, a passionate self-taught web developer from  India.
+
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning everything :rofl:
 - 💬 Ask me about anything related to Javascript
